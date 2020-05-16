@@ -587,6 +587,9 @@ hr
 
     justify-content: space-between;
 }
+.content__post--4{
+    box-shadow: none;
+}
 .content__post:first-child
 {
     margin-top: 0;
